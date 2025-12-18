@@ -1,5 +1,6 @@
 {
   "ios": "1.0.38",
   "android": "1.0.48",
+  "cache": true,
   "data": 0
 }
