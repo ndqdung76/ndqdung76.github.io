@@ -3,6 +3,6 @@
   "android": "1.0.48",
   "cache": true,
   "data": 0,
-  "nativeCheckUpdate": false,
-  "checkUpdate": false
+  "native_check_update": false,
+  "check_update": false
 }
