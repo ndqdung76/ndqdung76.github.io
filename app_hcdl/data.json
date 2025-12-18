@@ -3,7 +3,7 @@
   "android": "1.0.47",
   "cache": true,
   "data": 0,
-  "native_check_update": true,
+  "native_check_update": false,
   "check_update": false,
   "can_skip_update": true
 }
