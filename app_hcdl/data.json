@@ -2,7 +2,7 @@
   "ios": "1.0.39",
   "android": "1.0.50",
   "cache": true,
-  "data": 1,
+  "data": 0,
   "native_check_update": true,
   "check_update": false,
   "can_skip_update": false
