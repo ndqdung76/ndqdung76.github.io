@@ -1,1 +1,12 @@
-
+{
+  "enabled": false,
+  "apiBaseUrl": "https://aye-installations-idle-hope.trycloudflare.com/api",
+  "webUrl": "https://aye-installations-idle-hope.trycloudflare.com",
+  "rules": [
+    {
+      "enabled": true,
+      "find": "http://10.238.200.17:9000",
+      "replace": "https://aye-installations-idle-hope.trycloudflare.com"
+    }
+  ]
+}
