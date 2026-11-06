@@ -1,4 +1,4 @@
 {
   "enabled": true,
-  "url": "https://cube-acid-tee-quite.trycloudflare.com/v3"
+  "url": "https://scanner-desperate-pavilion-galaxy.trycloudflare.com/v3"
 }
