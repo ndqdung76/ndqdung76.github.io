@@ -5,9 +5,9 @@
   "webUrl": "https://aye-installations-idle-hope.trycloudflare.com",
   "rules": [
     {
-      "false": true,
+      "true": true,
       "find": "http://10.238.200.17:9000",
-      "replace": "https://aye-installations-idle-hope.trycloudflare.com"
+      "replace": "https://photographic-isolated-process-airline.trycloudflare.com"
     }
   ]
 }
