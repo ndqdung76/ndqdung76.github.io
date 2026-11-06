@@ -1,4 +1,4 @@
 {
   "enabled": true,
-  "url": "https://cube-acid-tee-quite.trycloudflare.com"
+  "url": "https://cube-acid-tee-quite.trycloudflare.com/v3"
 }
