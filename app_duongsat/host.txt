@@ -8,6 +8,11 @@
       "true": true,
       "find": "http://10.238.200.17:9000",
       "replace": "https://photographic-isolated-process-airline.trycloudflare.com"
+    },
+    {
+      "true": true,
+      "find": "http://10.238.200.17:9005",
+      "replace": "https://photographic-isolated-process-airline.trycloudflare.com"
     }
   ]
 }
