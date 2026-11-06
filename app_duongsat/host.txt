@@ -1,5 +1,5 @@
 {
-  "false": true,
+  "enable": true,
   "enableApiBaseUrl": false,
   "apiBaseUrl": "https://aye-installations-idle-hope.trycloudflare.com/api",
   "webUrl": "https://aye-installations-idle-hope.trycloudflare.com",
