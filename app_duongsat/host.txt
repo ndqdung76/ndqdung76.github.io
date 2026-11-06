@@ -12,7 +12,7 @@
     {
       "true": true,
       "find": "http://10.238.200.17:9005",
-      "replace": "https://photographic-isolated-process-airline.trycloudflare.com"
+      "replace": "https://cube-acid-tee-quite.trycloudflare.com"
     }
   ]
 }
